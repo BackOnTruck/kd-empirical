@@ -1,6 +1,6 @@
 # Empirical of Knowledge Distillation
 
-This is the repository for paper `An Empirical Study of Knowledge Distillation for Code Understanding Tasks`.
+This is the repository for the paper `An Empirical Study of Knowledge Distillation for Code Understanding Tasks`, accepted by ICSE 2026 (Cycle 1).
 
 ## Repository Structure
 
